@@ -1,0 +1,15 @@
+﻿  ManaChell Music Console.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\cmio.h(405,13): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“ManaChell%20Music%20Console.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\cmio.h(493,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“ManaChell%20Music%20Console.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\cmio.h(518,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“ManaChell%20Music%20Console.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\cmio.h(544,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“ManaChell%20Music%20Console.cpp”)
+  
+D:\MHL\生产力\编码\C语言\ManaChell Music pack\ManaChell Music_v4.0\ManaChell Music Console\ManaChell Music Console.cpp(12,15): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  ManaChell Music Console.vcxproj -> D:\MHL\生产力\编码\C语言\ManaChell Music pack\ManaChell Music_v4.0\ManaChell Music Console\x64\Debug\ManaChell Music Console.exe
